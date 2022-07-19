@@ -1,6 +1,6 @@
 package Launch;
 
-public class LaunchBranchWithoutBrowser {
+public class LaunchBrowserwithoutDriver {
     public static void main(String[] args) {
 
     }
