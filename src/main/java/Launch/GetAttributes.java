@@ -20,7 +20,7 @@ public class GetAttributes {
     void launchBrowser() {
         WebDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
-        driver.manage().window().maximize();
+       // driver.manage().window().maximize();
         driver.get("https://opensource-demo.orangehrmlive.com/");
     }
 
